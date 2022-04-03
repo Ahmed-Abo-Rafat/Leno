@@ -1,7 +1,7 @@
 # Leno
 Leno is a training Project about what i learn in HTML and Css Like Flex Box and Grid, Responsive and some effectes for enctance hover and transform, box-shadow, etc.
 
-## wbsite link:  
+## Website Link:  
    - Link: <https://ahmed-abo-rafat.github.io/Leno/>
 
 ## Technologies
