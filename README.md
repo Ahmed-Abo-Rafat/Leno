@@ -1,12 +1,16 @@
 # Leno
-**Html And CSS Template One**
- - wbsite link:  <https://ahmed-abo-rafat.github.io/Leno/>
+Leno is a training Project about what i learn in HTML and Css Like Flex Box and Grid, Responsive and some effectes for enctance hover and transform, box-shadow, etc.
 
-**Tooles We Use in Template:**
+## wbsite link:  
+   - Link: <https://ahmed-abo-rafat.github.io/Leno/>
+
+## Technologies
+Project is created with:
    - html
    - css
    - little js
-## lerning from :
-  - Chanel Elzero Web School
-  - chanel link: <https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF>
+   - Flexbox And Grid
+   - Responsive Lyouts
+   - Font Awesome Library
+   
 
